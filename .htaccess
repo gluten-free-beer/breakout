@@ -1,0 +1,13 @@
+Options -Indexes
+DirectoryIndex index.php
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^ - [L]
+
+    RewriteRule ^rss\.xml$ rss.php [QSA,L]
+    RewriteRule ^([a-z0-9-]+)/?$ record.php?slug=$1 [QSA,L]
+</IfModule>

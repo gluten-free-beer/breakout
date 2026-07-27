@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Example Company",
+    "logo": "",
+    "role": "Founder",
+    "tagline": "An organization claiming to exist.",
+    "industry": "Extremely Serious Work",
+    "location": "Somewhere",
+    "url": "https://example.com",
+    "hero_youtube": "",
+    "summary": "Example Company does something sufficiently professional to require a public record.",
+    "milestones": {
+      "2026": [
+        "Created a company record."
+      ],
+      "next": [
+        "Continue claiming to exist."
+      ]
+    },
+    "fundraising": {},
+    "social": {},
+    "team": [
+      {
+        "role": "Principal",
+        "name": "Your Name",
+        "profile": "your-name"
+      }
+    ],
+    "featured": {},
+    "media_status": "synthetic_representative_humans",
+    "media_disclaimer": "Representative imagery only. Actual workplaces, personnel, products, services, and apparent levels of enthusiasm may vary.",
+    "media": []
+  }
+]

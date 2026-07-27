@@ -1,0 +1,13 @@
+{
+  "site_name": "BreakOut",
+  "site_url": "https://example.com/breakout",
+  "page_title_suffix": "Welcome to our professional records",
+  "directory_eyebrow": "Professional Network, but not very linked",
+  "directory_heading": "Free to be discovered.",
+  "directory_intro": "Find the records below.",
+  "directory_network_note": "NETWORK OR NOT",
+  "repository_url": "https://github.com/gluten-free-beer/breakout",
+  "logo": "./assets/breakout-logo.svg",
+  "accent": "#3ed5e2",
+  "footer_note": "This profile has not been optimized for recruiter discovery."
+}

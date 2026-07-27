@@ -1,0 +1,45 @@
+# macOS and Windows
+.DS_Store
+**/.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE state
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Live installation data
+/config.json
+/data/me.json
+/data/company.json
+/data/connections.json
+/data/media-library.json
+/html/
+
+# Logs, caches, and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+.phpunit.result.cache
+.php-cs-fixer.cache
+
+# Optional dependency directories
+vendor/
+node_modules/
+
+# Live profile and company media; only template assets are tracked
+/assets/*
+!/assets/breakout-logo.png
+!/assets/breakout-logo.svg
+!/assets/breakout-team.png
+!/assets/breakout.css
+!/assets/overworking.png

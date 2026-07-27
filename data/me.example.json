@@ -1,0 +1,54 @@
+{
+  "slug": "your-name",
+  "name": "Your Name",
+  "tagline": "Professional Person | Building Something",
+  "location": "Somewhere",
+  "portrait": "",
+  "intro": [
+    "<p>Building a few things.</p><p>Learning more.</p>"
+  ],
+  "links": [
+    {
+      "label": "Home",
+      "url": "https://example.com"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:hello@example.com"
+    }
+  ],
+  "experience": [
+    {
+      "title": "A real role",
+      "subtitle": "An organization claiming to exist",
+      "period": "2024—present",
+      "summary": "A concise account of what happened."
+    }
+  ],
+  "projects": [
+    {
+      "label": "Example Company",
+      "status": "Active",
+      "years": "2026—present",
+      "url": "https://example.com",
+      "description": "A project described without algorithmic embellishment.",
+      "company": "example-company"
+    }
+  ],
+  "skills": [],
+  "education": [
+    "A qualification from somewhere"
+  ],
+  "aside": "",
+  "overworking": false,
+  "verification": "self-verified",
+  "rss": true,
+  "updates": [
+    {
+      "date": "2026-01-01",
+      "text": "<p><em>Hello World.</em></p>",
+      "image": "",
+      "image_alt": ""
+    }
+  ]
+}
